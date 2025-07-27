@@ -29,4 +29,18 @@ pong-game/
 - Controle da raquete do jogador pelo mouse.
 - Raquete adversária controlada por IA simples.
 - Bola com colisão nas paredes e nas raquetes.
-- Reinício automático quando a bola sai pela esquerda ou
+- Reinício automático quando a bola sai pela esquerda ou direita.
+- Visual limpo e agradável.
+
+## Personalização
+
+Você pode ajustar facilmente:
+- Tamanho do canvas, raquetes e bola.
+- Velocidade da bola e da IA, modificando as constantes no `script.js`.
+
+## Créditos
+
+Desenvolvido por @nicollascarvalh0 com inspiração no Pong clássico.
+
+---
+Divirta-se jogando!
